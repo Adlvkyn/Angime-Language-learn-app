@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287228447723",
+    "project_id": "angime-24c71",
+    "storage_bucket": "angime-24c71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287228447723:android:30607f54e971fe8da7a7ae",
+        "android_client_info": {
+          "package_name": "com.example.angime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287228447723-h5kcigidhc5a0jc00ru5pn6ao1fjk0b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0hGJG6_pQ2C97NOZq_Fplx3I8B5xyZIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287228447723-h5kcigidhc5a0jc00ru5pn6ao1fjk0b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
